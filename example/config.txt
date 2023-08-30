@@ -1,0 +1,2 @@
+Prefix plugins/ScaffoldReadMap/example/
+Plugin ScaffoldReadMap inputfile parameters.txt outputfile output.reorganized.txt

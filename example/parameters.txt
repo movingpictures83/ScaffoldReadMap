@@ -1,0 +1,2 @@
+scaffolds	output.organized_scaffold.txt
+reads	output.main.txt
